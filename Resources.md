@@ -16,4 +16,6 @@
 
 * [Avoid This Pitfall When Using LASSO and Ridge Regression with Wouter van Heeswijk](https://towardsdatascience.com/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70)
 
+* [Polynomial Regression - An Alternative for Neural Networks? with Wouter van Heeswijk](https://towardsdatascience.com/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6)
 
+* [Regulate Your Regression Model With Ridge, LASSO and ElasticNet with Wouter van Heeswijk](https://towardsdatascience.com/regulate-your-regression-model-with-ridge-lasso-and-elasticnet-92735e192e34)
