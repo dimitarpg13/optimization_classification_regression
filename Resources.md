@@ -12,6 +12,8 @@
 
 * [Random Forrests, Leo Breiman, UC Berkeley, 2001](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/randomforest2001.pdf)
 
+* [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guide Imbens, 2015](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
+
 ## medium
 
 * [Avoid This Pitfall When Using LASSO and Ridge Regression with Wouter van Heeswijk](https://towardsdatascience.com/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70)
@@ -26,3 +28,5 @@
     [Weights & Biases documentation](https://docs.wandb.ai/)
 
 * [Support Vector Machines (SVM): An Intuitive Explanation with Tasmay Tibrewal](https://medium.com/@keshavtibrewal2/support-vector-machines-svm-an-intuitive-explanation-b084d6238106) 
+
+* [The Dual Roots of Belief Propagation and Causal Inference with Oliver Beige](https://oliverbeige.medium.com/the-dual-roots-of-belief-propagation-and-causal-inference-17595d8180d6)
