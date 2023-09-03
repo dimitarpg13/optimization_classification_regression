@@ -19,3 +19,10 @@
 * [Polynomial Regression - An Alternative for Neural Networks? with Wouter van Heeswijk](https://towardsdatascience.com/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6)
 
 * [Regulate Your Regression Model With Ridge, LASSO and ElasticNet with Wouter van Heeswijk](https://towardsdatascience.com/regulate-your-regression-model-with-ridge-lasso-and-elasticnet-92735e192e34)
+
+* [How to use Weights And Balances with Francois Porcher](https://pub.aimind.so/how-to-use-weights-and-biases-c4467c6dac27)
+
+    related repos and docs: 
+    [Weights & Biases documentation](https://docs.wandb.ai/)
+
+* [Support Vector Machines (SVM): An Intuitive Explanation with Tasmay Tibrewal](https://medium.com/@keshavtibrewal2/support-vector-machines-svm-an-intuitive-explanation-b084d6238106) 
