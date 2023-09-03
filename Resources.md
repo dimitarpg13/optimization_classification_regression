@@ -8,9 +8,13 @@
 
 ## articles, conference papers and tutorials
 
+### classification and regression
+
 * [Bagging Predictors, Leo Breiman, Tech Report No. 421, 1994](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/baggingBreiman.pdf)
 
 * [Random Forrests, Leo Breiman, UC Berkeley, 2001](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/randomforest2001.pdf)
+
+* [Fifty Years of Classification and Regression Trees, Wei-Yin Loh, 2016](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/FiftyYearsofClassificationandRegressionTrees_LohISI14.pdf)
 
 * [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guide Imbens, 2015](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
 
