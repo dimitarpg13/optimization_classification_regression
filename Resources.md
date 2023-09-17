@@ -34,3 +34,5 @@
 * [Support Vector Machines (SVM): An Intuitive Explanation with Tasmay Tibrewal](https://medium.com/@keshavtibrewal2/support-vector-machines-svm-an-intuitive-explanation-b084d6238106) 
 
 * [The Dual Roots of Belief Propagation and Causal Inference with Oliver Beige](https://oliverbeige.medium.com/the-dual-roots-of-belief-propagation-and-causal-inference-17595d8180d6)
+
+* [Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks with Salvatore Raieli](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)
