@@ -38,3 +38,5 @@
 * [Tabula Rasa: Why Do Tree-Based Algorithms Outperform Neural Networks with Salvatore Raieli](https://levelup.gitconnected.com/tabula-rasa-why-do-tree-based-algorithms-outperform-neural-networks-db641862859b)
 
 * [Your Features Are Important? It Doesn’t Mean They Are Good with Samuele Mazzanti](https://towardsdatascience.com/your-features-are-important-it-doesnt-mean-they-are-good-ff468ae2e3d4)
+
+* [Which Features Are Harmful For Your Classification Model? with Samuele Mazzanti](https://towardsdatascience.com/which-features-are-harmful-for-your-classification-model-6227859a44a6)
