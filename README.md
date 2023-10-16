@@ -3,7 +3,7 @@ repo for fundamental Machine Learning methods: classic linear and non-linear con
 
 This is Work In Progress
 
-## Other Relevant Topics and Repositories with Work on Those 
+## Other Relevant Topics and Repositories
  
  * [Reinforcement Learning](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
