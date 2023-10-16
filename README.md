@@ -16,6 +16,8 @@ This is Work In Progress
  * [Bayesian Networks](https://github.com/dimitarpg13/learning_bayesian_networks/blob/main/LearningBayesianNetworksResources.md)
  
  * [Probabilistic Machine Learning](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/ProbabilisticMachineLearningResources.md)
+
+ * [Optimization, Classification, Regression](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/Resources.md)
  
  * [Causal Inference, Root Cause Analysis and Model Checking](https://github.com/dimitarpg13/root_cause_analysis_and_model_checking/blob/main/RootCauseAnalysisResources.md)
 
