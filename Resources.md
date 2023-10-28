@@ -70,3 +70,9 @@
 * [Your Features Are Important? It Doesn’t Mean They Are Good with Samuele Mazzanti](https://towardsdatascience.com/your-features-are-important-it-doesnt-mean-they-are-good-ff468ae2e3d4)
 
 * [Which Features Are Harmful For Your Classification Model? with Samuele Mazzanti](https://towardsdatascience.com/which-features-are-harmful-for-your-classification-model-6227859a44a6)
+
+### Indepedent Component Analysis articles
+
+* [Introduction to ICA: Independent Component Analysis with Jonas Dieckmann](https://towardsdatascience.com/introduction-to-ica-independent-component-analysis-b2c3c4720cd9)
+
+    related paper: [A First Application of Independent Component Analysis to Extracting Structure from Stock Returns, Andrew D. Back, Andreas Weigend, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/A_First_Application_of_Independent_Component_Analysis_to_Extracting_Structure_from_Stock_Returns_Andrew_Back_1997.pdf)
