@@ -76,3 +76,5 @@
 * [Introduction to ICA: Independent Component Analysis with Jonas Dieckmann](https://towardsdatascience.com/introduction-to-ica-independent-component-analysis-b2c3c4720cd9)
 
     related paper: [A First Application of Independent Component Analysis to Extracting Structure from Stock Returns, Andrew D. Back, Andreas Weigend, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/A_First_Application_of_Independent_Component_Analysis_to_Extracting_Structure_from_Stock_Returns_Andrew_Back_1997.pdf)
+
+    related paper: [Face Image Analysis by Unsupervised Learning and Redundancy Reduction, M. Bartlett, PhD thesis, UC San Diego, 1998](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Face_Image_Analysis_by_Unsupervised_Learning_and_Redundancy_Reduction_Bartlett_PhD_thesis_1998.pdf)
