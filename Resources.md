@@ -82,3 +82,7 @@
     related paper: [Independent Component Analysis, a new concept?, Pierre Comon, 1994](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Independent_component_analysis-a_new_concept_Comon_1994.pdf)
 
     related paper: [The Independent Components of Natural Scenes are Edge Filters, A. Bell et all, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/The_Independent_Components_of_Natural_Scenes_are_Edge_Filters_Bell_1997.pdf)
+
+* [ICA and the Real-Life Cocktail Party Problem with Kenneth Ball](https://towardsdatascience.com/ica-and-the-real-life-cocktail-party-problem-6375ba35894b)
+
+    related paper: [An Information-Maximization Approach to Blind Separation and Blind Deconvolution Anthony J. Bell and Terrence J. Sejnowski, 1995](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/An_Information-Maximization_Approach_to_Blind_Separation_and_Blind_Deconvolution_Bell_Sejnowski_1995.pdf)
