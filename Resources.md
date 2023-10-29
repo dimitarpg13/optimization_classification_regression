@@ -86,3 +86,5 @@
 * [ICA and the Real-Life Cocktail Party Problem with Kenneth Ball](https://towardsdatascience.com/ica-and-the-real-life-cocktail-party-problem-6375ba35894b)
 
     related paper: [An Information-Maximization Approach to Blind Separation and Blind Deconvolution Anthony J. Bell and Terrence J. Sejnowski, 1995](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/An_Information-Maximization_Approach_to_Blind_Separation_and_Blind_Deconvolution_Bell_Sejnowski_1995.pdf)
+
+    related paper: [Complex independent component analysis of frequency-domain electroencephalographic data, J. Annemueler et al, 2003](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Complex_independent_component_analysis_of_frequency-domain_electroencephalographic_data_AnemullerSM_NeurNetw_2003.pdf)
