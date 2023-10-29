@@ -90,3 +90,7 @@
     related paper: [A Fast Fixed Point Algorithm for Independent Component Analysis, Aapo Hyvarinen et al, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Fast_Fixed_Point_Algorithm_for_ICA_Hyvarinen_1997.pdf)
 
     related paper: [Complex independent component analysis of frequency-domain electroencephalographic data, J. Annemueler et al, 2003](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Complex_independent_component_analysis_of_frequency-domain_electroencephalographic_data_AnemullerSM_NeurNetw_2003.pdf)
+
+    related paper: [Exploring Frequency-dependent Brain Networks from ongoing EEG using Spatial ICA during music listening, Zhu et al, 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Exploring_Frequency-dependent_Brain_Networks_from_ongoing_EEG_using_Spatial_ICA_during_music_listening_Zhu_2019.pdf)
+
+* [Independent Component Analysis (ICA) In Python with Cory Maklin](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
