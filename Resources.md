@@ -36,6 +36,8 @@
 
 * [Zorn's Lemma and Some of its Applications, Keith Conrad, online document](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Zorns_Lemma_and_Some_Applications_Conrad.pdf)
 
+* [Chain characterization of Compactness, David Milovich, 2018, online document](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Chain_characterization_of_compactness_Milovich_2018.pdf)
+
 * [A Revised Simplex Method for Linear Multiple Objective Programs, J.P. Evans, R.E. Steuer, 1973](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Revised_Simplex_Method_For_Linear_MultiObjective_Programs_EvansSteuer_1973.pdf)
 
 * [Generation of Efficient Solutions in Multiobjective Mathematical Programming Problems using GAMS: Effective Implementation of the epsilon-constraint method, G. Mavrotas, 2008](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Generation_of_efficient_solutions_in_Multiobjective_Mathematical_Programming_problems_using_GAMS_Epsion_constraint_method.pdf)
