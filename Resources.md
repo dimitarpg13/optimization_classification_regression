@@ -52,7 +52,9 @@
 
 * [Benson-style algorithms for Linear Vector Optimization and Applications, A.H. Hamel et al, 2013](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Benson_type_algorithms_for_linear_vector_optimization_and_applications_Hamel_2013.pdf)
 
-### Kalman filters
+### Linear Kalman filters and Extended Kalman Filters
+
+* [A New Approach to Linear Filtering and Prediction Problems, R.E. Kalman, 1960](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/A_New_Approach_to_Linear_Filtering_and_Prediction_Problems_Kalman60.pdf)
 
 * [Exposing the Power of the Kalman Filter with Jimmy Weaver, Nov 7, 2023, Medium](https://towardsdatascience.com/exposing-the-power-of-the-kalman-filter-1b78621c3f56)
 
@@ -67,6 +69,12 @@
 * [An Introduction to the Kalman Filter, G. Welch and G. Bishop, U of NC at Chapel Hill, 2001](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/welch_intro_kalman_uncch_2001.pdf)
 
 * [Understanding and Applying Kalman Filtering, Lindsey Kleeman, Monash U., presentation](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/kleeman_understanding_kalman.pdf)
+
+* [Extended Kalman Filter Lecture Notes, Darryl Morrell, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/Extended_Kalman_Filter_Lecture_Notes_Morell_1997.pdf)
+
+* [Kalman and Extended Kalman Filters: Concept, Derivation and Properties, M. Ribeiro, 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/Kalman_and_Extended_Kalman_Filters-Concept_Derivation_and_Properties_Ribeiro_2004.pdf)
+
+* [A New Extension of the Kalman Filter to Nonlinear Systems, Simon Julier, Jeffrey Uhlmann, Oxford U., 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/A_New_Extension_of_the_Kalman_Filter_to_Nonlinear_Systems_Julier1997_SPIE_KF.pdf)
 
 ## medium
 
