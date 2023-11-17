@@ -52,6 +52,22 @@
 
 * [Benson-style algorithms for Linear Vector Optimization and Applications, A.H. Hamel et al, 2013](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Benson_type_algorithms_for_linear_vector_optimization_and_applications_Hamel_2013.pdf)
 
+### Kalman filters
+
+* [Exposing the Power of the Kalman Filter with Jimmy Weaver, Nov 7, 2023, Medium](https://towardsdatascience.com/exposing-the-power-of-the-kalman-filter-1b78621c3f56)
+
+* [Fundamentals of Kalman Filtering: Practical Approach, 3th ed, Paul Zarchan, Howard Musoff, MIT Lincoln Lab,Charles Draper Lab, Massachusetts, 2009](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/Fundamentals_of_Kalman_Filtering_MIT_Lincoln.pdf)
+
+* [An Elementary Introduction to Kalman Filtering, Yan Pei et al, U Texas at Austin, 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/An_Elementary_Introduction_to_Kalman_Filtering_Pei_2019.pdf)
+
+* [Kalman and Particle Filters, J. Fernandez-Villaverde, U Penn, online document](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/Kalman_and_particle_filters.pdf)
+
+* [The Kalman Filter and Related Algorithms, C. Montella, Lehigh U., 2011](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/TheKalmanFilterandRelatedAlgorithms.pdf)
+
+* [An Introduction to the Kalman Filter, G. Welch and G. Bishop, U of NC at Chapel Hill, 2001](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/welch_intro_kalman_uncch_2001.pdf)
+
+* [Understanding and Applying Kalman Filtering, Lindsey Kleeman, Monash U., presentation](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/kleeman_understanding_kalman.pdf)
+
 ## medium
 
 * [Avoid This Pitfall When Using LASSO and Ridge Regression with Wouter van Heeswijk](https://towardsdatascience.com/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70)
