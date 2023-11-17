@@ -22,7 +22,7 @@
 
 ## articles, conference papers and tutorials
 
-### classification and regression
+### Classification and Regression
 
 * [Bagging Predictors, Leo Breiman, Tech Report No. 421, 1994](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/baggingBreiman.pdf)
 
@@ -32,7 +32,7 @@
 
 * [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guide Imbens, 2015](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
 
-### multi-objective optimization
+### Multi-Objective Optimization
 
 * [Zorn's Lemma and Some of its Applications, Keith Conrad, online document](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Zorns_Lemma_and_Some_Applications_Conrad.pdf)
 
