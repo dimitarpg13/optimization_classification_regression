@@ -58,7 +58,7 @@
 
 * [Exposing the Power of the Kalman Filter with Jimmy Weaver, Nov 7, 2023, Medium](https://towardsdatascience.com/exposing-the-power-of-the-kalman-filter-1b78621c3f56)
 
-* [Fundamentals of Kalman Filtering: Practical Approach, 3th ed, Paul Zarchan, Howard Musoff, MIT Lincoln Lab,Charles Draper Lab, Massachusetts, 2009](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/Fundamentals_of_Kalman_Filtering_MIT_Lincoln.pdf)
+* [Fundamentals of Kalman Filtering: Practical Approach, 3th ed, Paul Zarchan, Howard Musoff, MIT Lincoln Lab, Charles Draper Lab, Massachusetts, 2009](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/Fundamentals_of_Kalman_Filtering_MIT_Lincoln.pdf)
 
 * [An Elementary Introduction to Kalman Filtering, Yan Pei et al, U Texas at Austin, 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/An_Elementary_Introduction_to_Kalman_Filtering_Pei_2019.pdf)
 
