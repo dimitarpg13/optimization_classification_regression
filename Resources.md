@@ -76,6 +76,30 @@
 
 * [A New Extension of the Kalman Filter to Nonlinear Systems, Simon Julier, Jeffrey Uhlmann, Oxford U., 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/A_New_Extension_of_the_Kalman_Filter_to_Nonlinear_Systems_Julier1997_SPIE_KF.pdf)
 
+### Indepedent Component Analysis
+
+* [Introduction to ICA: Independent Component Analysis with Jonas Dieckmann](https://towardsdatascience.com/introduction-to-ica-independent-component-analysis-b2c3c4720cd9)
+
+    related paper: [A First Application of Independent Component Analysis to Extracting Structure from Stock Returns, Andrew D. Back, Andreas Weigend, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/A_First_Application_of_Independent_Component_Analysis_to_Extracting_Structure_from_Stock_Returns_Andrew_Back_1997.pdf)
+
+    related paper: [Face Image Analysis by Unsupervised Learning and Redundancy Reduction, M. Bartlett, PhD thesis, UC San Diego, 1998](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Face_Image_Analysis_by_Unsupervised_Learning_and_Redundancy_Reduction_Bartlett_PhD_thesis_1998.pdf)
+
+    related paper: [Independent Component Analysis, a new concept?, Pierre Comon, 1994](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Independent_component_analysis-a_new_concept_Comon_1994.pdf)
+
+    related paper: [The Independent Components of Natural Scenes are Edge Filters, A. Bell et all, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/The_Independent_Components_of_Natural_Scenes_are_Edge_Filters_Bell_1997.pdf)
+
+* [ICA and the Real-Life Cocktail Party Problem with Kenneth Ball](https://towardsdatascience.com/ica-and-the-real-life-cocktail-party-problem-6375ba35894b)
+
+    related paper: [An Information-Maximization Approach to Blind Separation and Blind Deconvolution Anthony J. Bell and Terrence J. Sejnowski, 1995](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/An_Information-Maximization_Approach_to_Blind_Separation_and_Blind_Deconvolution_Bell_Sejnowski_1995.pdf)
+
+    related paper: [A Fast Fixed Point Algorithm for Independent Component Analysis, Aapo Hyvarinen et al, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Fast_Fixed_Point_Algorithm_for_ICA_Hyvarinen_1997.pdf)
+
+    related paper: [Complex independent component analysis of frequency-domain electroencephalographic data, J. Annemueler et al, 2003](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Complex_independent_component_analysis_of_frequency-domain_electroencephalographic_data_AnemullerSM_NeurNetw_2003.pdf)
+
+    related paper: [Exploring Frequency-dependent Brain Networks from ongoing EEG using Spatial ICA during music listening, Zhu et al, 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Exploring_Frequency-dependent_Brain_Networks_from_ongoing_EEG_using_Spatial_ICA_during_music_listening_Zhu_2019.pdf)
+
+* [Independent Component Analysis (ICA) In Python with Cory Maklin](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
+
 ## medium
 
 * [Avoid This Pitfall When Using LASSO and Ridge Regression with Wouter van Heeswijk](https://towardsdatascience.com/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70)
@@ -98,27 +122,5 @@
 * [Your Features Are Important? It Doesn’t Mean They Are Good with Samuele Mazzanti](https://towardsdatascience.com/your-features-are-important-it-doesnt-mean-they-are-good-ff468ae2e3d4)
 
 * [Which Features Are Harmful For Your Classification Model? with Samuele Mazzanti](https://towardsdatascience.com/which-features-are-harmful-for-your-classification-model-6227859a44a6)
-
-### Indepedent Component Analysis articles
-
-* [Introduction to ICA: Independent Component Analysis with Jonas Dieckmann](https://towardsdatascience.com/introduction-to-ica-independent-component-analysis-b2c3c4720cd9)
-
-    related paper: [A First Application of Independent Component Analysis to Extracting Structure from Stock Returns, Andrew D. Back, Andreas Weigend, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/A_First_Application_of_Independent_Component_Analysis_to_Extracting_Structure_from_Stock_Returns_Andrew_Back_1997.pdf)
-
-    related paper: [Face Image Analysis by Unsupervised Learning and Redundancy Reduction, M. Bartlett, PhD thesis, UC San Diego, 1998](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Face_Image_Analysis_by_Unsupervised_Learning_and_Redundancy_Reduction_Bartlett_PhD_thesis_1998.pdf)
-
-    related paper: [Independent Component Analysis, a new concept?, Pierre Comon, 1994](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Independent_component_analysis-a_new_concept_Comon_1994.pdf)
-
-    related paper: [The Independent Components of Natural Scenes are Edge Filters, A. Bell et all, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/The_Independent_Components_of_Natural_Scenes_are_Edge_Filters_Bell_1997.pdf)
-
-* [ICA and the Real-Life Cocktail Party Problem with Kenneth Ball](https://towardsdatascience.com/ica-and-the-real-life-cocktail-party-problem-6375ba35894b)
-
-    related paper: [An Information-Maximization Approach to Blind Separation and Blind Deconvolution Anthony J. Bell and Terrence J. Sejnowski, 1995](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/An_Information-Maximization_Approach_to_Blind_Separation_and_Blind_Deconvolution_Bell_Sejnowski_1995.pdf)
-
-    related paper: [A Fast Fixed Point Algorithm for Independent Component Analysis, Aapo Hyvarinen et al, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Fast_Fixed_Point_Algorithm_for_ICA_Hyvarinen_1997.pdf)
-
-    related paper: [Complex independent component analysis of frequency-domain electroencephalographic data, J. Annemueler et al, 2003](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Complex_independent_component_analysis_of_frequency-domain_electroencephalographic_data_AnemullerSM_NeurNetw_2003.pdf)
-
-    related paper: [Exploring Frequency-dependent Brain Networks from ongoing EEG using Spatial ICA during music listening, Zhu et al, 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/independent_component_analysis/Exploring_Frequency-dependent_Brain_Networks_from_ongoing_EEG_using_Spatial_ICA_during_music_listening_Zhu_2019.pdf)
 
 * [Independent Component Analysis (ICA) In Python with Cory Maklin](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
