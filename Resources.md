@@ -24,6 +24,8 @@
 
 ### Classification and Regression
 
+* [Data Mining with Decision Trees: Theory and Applications, L. Rokach and O. Maimon, 2nd Ed, 2014](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/DataMiningwithDecisionTrees_Theory_and_Applications_2nd_ed_Rokach_Maimon_2014.pdf)
+
 * [Bagging Predictors, Leo Breiman, Tech Report No. 421, 1994](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/baggingBreiman.pdf)
 
 * [Random Forrests, Leo Breiman, UC Berkeley, 2001](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/randomforest2001.pdf)
