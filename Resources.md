@@ -104,6 +104,8 @@
 
 ## medium
 
+* [A Marriage of Machine Learning and Optimization Algorithms with Wouter van Heeswijk](https://towardsdatascience.com/a-marriage-of-machine-learning-and-optimization-algorithms-e6c680454f06)
+
 * [Avoid This Pitfall When Using LASSO and Ridge Regression with Wouter van Heeswijk](https://towardsdatascience.com/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70)
 
 * [Polynomial Regression - An Alternative for Neural Networks? with Wouter van Heeswijk](https://towardsdatascience.com/polynomial-regression-an-alternative-for-neural-networks-c4bd30fa6cf6)
