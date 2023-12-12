@@ -128,3 +128,11 @@
 * [Which Features Are Harmful For Your Classification Model? with Samuele Mazzanti](https://towardsdatascience.com/which-features-are-harmful-for-your-classification-model-6227859a44a6)
 
 * [Independent Component Analysis (ICA) In Python with Cory Maklin](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
+
+* [Demystifying L1 & L2 Regularization (part 1): Basics and purpose with Amy Ma](https://towardsdatascience.com/understanding-l1-l2-regularization-part-1-9c7affe6f920)
+
+* [Demystifying L1 & L2 Regularization (part 2): Intuition behind L1 sparsity with Amy Ma](https://towardsdatascience.com/courage-to-learn-ml-unraveling-l1-l2-regularization-part-2-1bb171e43b35)
+
+* [Demystifying L1 & L2 Regularization (part 3): Why L0.5, L3, and L4 Regularizations Are Uncommon with Amy Ma](https://towardsdatascience.com/courage-to-learn-ml-demystifying-l1-l2-regularization-part-3-ee27cd4b557a)
+
+* [Demystifying L1 & L2 Regularization (part 4): L1 and L2 as Bayesian Priors with Amy Ma](https://towardsdatascience.com/courage-to-learn-ml-demystifying-l1-l2-regularization-part-4-27c13dc250f9)
