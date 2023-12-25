@@ -68,6 +68,8 @@
 
 * [Improved Max-value Entropy Search for Multi-objective Bayesian Optimization with Constraints, D. Fernandez-Sanchez et al, 2021](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Improved_Max-value_Entropy_Search_for_Multi-objective_Bayesian_Optimization_with_Constrain_Fernandez-Sanchez_2021.pdf)
 
+* [Multi-Dimensional Bayesian Optimization over High-Dimensional Search Spaces, S. Daulton et al, U of Oxford, UAI 2022](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Multi-Objective_Bayesian_Optimization_over_High-Dimensional_Search_Spaces_UofOxford_daulton22a.pdf)
+
 ### Linear Kalman filters and Extended Kalman Filters
 
 * [A New Approach to Linear Filtering and Prediction Problems, R.E. Kalman, 1960](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/A_New_Approach_to_Linear_Filtering_and_Prediction_Problems_Kalman60.pdf)
