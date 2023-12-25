@@ -60,7 +60,9 @@
 
 ### Multi-Objective Bayesian Optimization
 
-* [Multi-objective Bayesian optimisation with preferences over the objectives, M. Abdolshah et al, MeurIPS 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/NeurIPS-2019-multi-objective-bayesian-optimisation-with-preferences-over-objectives-Paper.pdf)
+* [Multi-objective Bayesian optimisation with preferences over the objectives, M. Abdolshah et al, NeurIPS 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/NeurIPS-2019-multi-objective-bayesian-optimisation-with-preferences-over-objectives-Paper.pdf)
+
+* [Improved Max-value Entropy Search for Multi-objective Bayesian Optimization with Constraints, D. Fernandez-Sanchez et al, 2021](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Improved_Max-value_Entropy_Search_for_Multi-objective_Bayesian_Optimization_with_Constrain_Fernandez-Sanchez_2021.pdf)
 
 ### Linear Kalman filters and Extended Kalman Filters
 
