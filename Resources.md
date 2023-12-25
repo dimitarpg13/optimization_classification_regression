@@ -19,6 +19,10 @@
 
 * [An Introduction to Statistical Learning with Applications in R, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Second Edition, 2021](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ISLRv2_website.pdf)
 
+* [Optimization: Principles and Algorithms, Michel Bierlaire, EPFL, 2018](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/OptimizationPrinciplesAlgorithms_Bierlaire_EPFL_2018.pdf)
+
+* [Algorithms for Optimization, Mykel Kochenderfer, Tim Wheeler, MIT, 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/Algorithms_for_optimization_Kochenderfer_MIT_2019.pdf)
+
 
 ## articles, conference papers and tutorials
 
