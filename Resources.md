@@ -64,6 +64,8 @@
 
 * [Diversity-Guided Multi-Objective Bayesian Optimization With Batch Evaluations, M. Lukovic et al, MIT CSAIL, NeurIPS 2020](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Diversity-Guided_Multi-Objective_Bayesian_Optimization_With_Batch_Evaluations_Lukovic_MIT_CSAIL_NeurIPS_2020.pdf)
 
+    related github repo: https://github.com/yunshengtian/DGEMO
+
 * [Improved Max-value Entropy Search for Multi-objective Bayesian Optimization with Constraints, D. Fernandez-Sanchez et al, 2021](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Improved_Max-value_Entropy_Search_for_Multi-objective_Bayesian_Optimization_with_Constrain_Fernandez-Sanchez_2021.pdf)
 
 ### Linear Kalman filters and Extended Kalman Filters
