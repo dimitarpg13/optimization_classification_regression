@@ -58,6 +58,10 @@
 
 * [Benson-style algorithms for Linear Vector Optimization and Applications, A.H. Hamel et al, 2013](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Benson_type_algorithms_for_linear_vector_optimization_and_applications_Hamel_2013.pdf)
 
+### Multi-Objective Bayesian Optimization
+
+* [Multi-objective Bayesian optimisation with preferences over the objectives, M. Abdolshah et al, MeurIPS 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/NeurIPS-2019-multi-objective-bayesian-optimisation-with-preferences-over-objectives-Paper.pdf)
+
 ### Linear Kalman filters and Extended Kalman Filters
 
 * [A New Approach to Linear Filtering and Prediction Problems, R.E. Kalman, 1960](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/A_New_Approach_to_Linear_Filtering_and_Prediction_Problems_Kalman60.pdf)
