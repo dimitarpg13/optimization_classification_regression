@@ -60,6 +60,8 @@
 
 ### Multi-Objective Bayesian Optimization
 
+* [Bayesian Optimization for Multi-objective Optimization and Multi-point Search, T. Wada et al, Kobe Steel Ltd, ISM, 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Bayesian_Optimization_for_Multi-objective_Optimization_and_Multi-point_Search_Wada_KobeSteel_2019.pdf)
+
 * [Multi-objective Bayesian optimisation with preferences over the objectives, M. Abdolshah et al, NeurIPS 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/NeurIPS-2019-multi-objective-bayesian-optimisation-with-preferences-over-objectives-Paper.pdf)
 
 * [Max-value Entropy Search for Multi-Objective Bayesian Optimization, S. Belakaria et al, WSU, NeurIPS 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/NeurIPS-2019-max-value-entropy-search-for-multi-objective-bayesian-optimization-Paper.pdf)
