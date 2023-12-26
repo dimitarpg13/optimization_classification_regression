@@ -62,7 +62,9 @@
 
 * [Multi-objective Bayesian optimisation with preferences over the objectives, M. Abdolshah et al, NeurIPS 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/NeurIPS-2019-multi-objective-bayesian-optimisation-with-preferences-over-objectives-Paper.pdf)
 
-* [Multi-objective Bayesian Optimization using Pareto-frontier Entropy, S. Suzuki et al, ICML, 2020](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Multi-objective_Bayesian_Optimization_using_Pareto-frontier_Entropy_Suzuki_ICML_2020.pdf)
+* [Max-value Entropy Search for Multi-Objective Bayesian Optimization, S. Belakaria et al, WSU, NeurIPS 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/NeurIPS-2019-max-value-entropy-search-for-multi-objective-bayesian-optimization-Paper.pdf)
+
+* [Multi-objective Bayesian Optimization using Pareto-frontier Entropy, S. Suzuki et al, ICML 2020](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Multi-objective_Bayesian_Optimization_using_Pareto-frontier_Entropy_Suzuki_ICML_2020.pdf)
 
 * [Diversity-Guided Multi-Objective Bayesian Optimization With Batch Evaluations, M. Lukovic et al, MIT CSAIL, NeurIPS 2020](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Diversity-Guided_Multi-Objective_Bayesian_Optimization_With_Batch_Evaluations_Lukovic_MIT_CSAIL_NeurIPS_2020.pdf)
 
