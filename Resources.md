@@ -76,6 +76,8 @@
 
 * [Multi-Dimensional Bayesian Optimization over High-Dimensional Search Spaces, S. Daulton et al, U of Oxford, UAI 2022](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Multi-Objective_Bayesian_Optimization_over_High-Dimensional_Search_Spaces_UofOxford_daulton22a.pdf)
 
+* [A New Acquisition Function for Multi-objective Bayesian Optimization: Correlated Probability of Improvement, K. Yang, UAS-Upper Austria, CSU Changsha, 2023](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/A_New_Acquisition_Function_for_Multi-objective_Bayesian_Optimization-Correlated_Probability_of_Improvement_Yang_UAS-UpperAustria_2023.pdf)
+
 ### Linear Kalman filters and Extended Kalman Filters
 
 * [A New Approach to Linear Filtering and Prediction Problems, R.E. Kalman, 1960](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/A_New_Approach_to_Linear_Filtering_and_Prediction_Problems_Kalman60.pdf)
