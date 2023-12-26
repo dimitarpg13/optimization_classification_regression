@@ -60,6 +60,8 @@
 
 ### Multi-Objective Bayesian Optimization
 
+* [Practical Bayesian Optimization, Danel J. Lizotte, UofAlberta, PhD thesis, 2008](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/PracticalBayesianOptimization_lizotte_phd_thesis_2008.pdf)
+
 * [Taking the Human Out of the Loop: A Review of Bayesian Optimization, B. Shahriari et al, UBC, 2016](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Taking_the_Human_Out_of_the_Loop-A_Review_of_Bayesian_Optimization_Shahriari_UBC_2016.pdf)
 
 * [Bayesian Optimization for Multi-objective Optimization and Multi-point Search, T. Wada et al, Kobe Steel Ltd, ISM, 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Bayesian_Optimization_for_Multi-objective_Optimization_and_Multi-point_Search_Wada_KobeSteel_2019.pdf)
