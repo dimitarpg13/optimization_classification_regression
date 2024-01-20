@@ -132,6 +132,27 @@
 
 * [Independent Component Analysis (ICA) In Python with Cory Maklin](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 
+### Linear Programming
+* [Stable Matchings, Optimal Assignments, and Linear Programming, Alvin E. Roth et al, 1993](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/linear_programming/1993_MOR_StableMatchingsOptimal.pdf)
+
+* [Matching Polytope, Wikipedia](https://en.wikipedia.org/wiki/Matching_polytope)
+
+* [Stable Matching Polytope, Wikipedia](https://en.wikipedia.org/wiki/Stable_matching_polytope)
+
+* [Linear Programming Brings Marital Bliss, JH Vande Vatte, 1989](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/linear_programming/LP-marital_bliss_Vande_Vate_1989.pdf)
+
+* [On The Stable b-Matching Polytope, Tamas Fleiner, 2002](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/linear_programming/On_the_stable_b-matching_polytope_fleiner_egres-2003.pdf)
+
+* [The Geometry of the Fractional Stable Matchings and Its Applications, CP Teo et al, 1998](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/linear_programming/The_Geometry_of_Fractional_Stable_Matchings_and_Its_Applications_Teo_1998.pdf)
+
+* [The Complexity of Linear Programming, D. Dobkin, 1980](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/linear_programming/complexity_of_linear_programming_dobkin_1980.pdf)
+
+* [The Matching Polytope Has Exponential Complexity, Thomas Rothvoss, 2017](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/linear_programming/The_matching_polytope_has_exponential_extension_complexity_Rothvoss_2017.pdf)
+
+* [Mixed Integer Programming Formulation Techniques, J. P. Vielma, SIAM, 2015](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/linear_programming/Mixed-Integer-Linear-Programming-Formulation-Techniques.pdf)
+
+* [On The Space Complexity of Linear Programming With Preprocessing, Yael Kalai et al, Microsoft, 2016](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/linear_programming/On_the_Space_Complexity_of_Linear_Programming_with_Preprocessing_KalaiRaRe2016.pdf)
+
 ## medium
 
 * [A Marriage of Machine Learning and Optimization Algorithms with Wouter van Heeswijk](https://towardsdatascience.com/a-marriage-of-machine-learning-and-optimization-algorithms-e6c680454f06)
