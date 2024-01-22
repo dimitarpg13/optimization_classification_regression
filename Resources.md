@@ -187,3 +187,7 @@
 * [Demystifying L1 & L2 Regularization (part 3): Why L0.5, L3, and L4 Regularizations Are Uncommon with Amy Ma](https://towardsdatascience.com/courage-to-learn-ml-demystifying-l1-l2-regularization-part-3-ee27cd4b557a)
 
 * [Demystifying L1 & L2 Regularization (part 4): L1 and L2 as Bayesian Priors with Amy Ma](https://towardsdatascience.com/courage-to-learn-ml-demystifying-l1-l2-regularization-part-4-27c13dc250f9)
+
+* [Particle Swarm Optimization with Robert Kübler](https://towardsdatascience.com/particle-swarm-optimization-b869231c57fe)
+
+   related paper: [Particle Swarm Optimization, James Kennedy and Russel Eberhard, 1995](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/Particle_Swarm_Optimization_Kennedy_1995.pdf)
