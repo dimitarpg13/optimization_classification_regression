@@ -191,3 +191,9 @@
 * [Particle Swarm Optimization with Robert Kübler](https://towardsdatascience.com/particle-swarm-optimization-b869231c57fe)
 
    related paper: [Particle Swarm Optimization, James Kennedy and Russel Eberhard, 1995](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/Particle_Swarm_Optimization_Kennedy_1995.pdf)
+
+* [Particle Swarm Optimization: Search Procedure Visualized with James Koh, Dec, 2023](https://towardsdatascience.com/particle-swarm-optimization-search-procedure-visualized-4b0364fb3e5a)
+
+* [Ant Colony Optimization — Intuition, Code & Visualization](https://towardsdatascience.com/ant-colony-optimization-intuition-code-visualization-9412c369be81)
+
+  related book: [Ant Colony Optimization, Marco Dorigo, Thomas Stutzle, 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/Ant_Colony_Optimization-book-Marco-Dorigo.pdf)
