@@ -194,6 +194,8 @@
 
 * [Particle Swarm Optimization: Search Procedure Visualized with James Koh, Dec, 2023](https://towardsdatascience.com/particle-swarm-optimization-search-procedure-visualized-4b0364fb3e5a)
 
+  related book: [Introduction to Evolutionary Computing, 2nd Edition, AE Eiben, JE Smith, 2015](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/2015_Book_IntroductionToEvolutionaryComp.pdf)
+
 * [Ant Colony Optimization — Intuition, Code & Visualization](https://towardsdatascience.com/ant-colony-optimization-intuition-code-visualization-9412c369be81)
 
   related book: [Ant Colony Optimization, Marco Dorigo, Thomas Stutzle, 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/Ant_Colony_Optimization-book-Marco-Dorigo.pdf)
