@@ -199,3 +199,5 @@
 * [Ant Colony Optimization — Intuition, Code & Visualization](https://towardsdatascience.com/ant-colony-optimization-intuition-code-visualization-9412c369be81)
 
   related book: [Ant Colony Optimization, Marco Dorigo, Thomas Stutzle, 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/Ant_Colony_Optimization-book-Marco-Dorigo.pdf)
+
+  related paper: [Ant System: Optimization by a colony of cooperating agents, M. Dorigo, V. Maniezzo, and A. Colorni, 1996](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/ant_colony_optimization/The_Ant_System-Optimization_by_a_colony_of_cooperating_agents_dorigo96a.pdf)
