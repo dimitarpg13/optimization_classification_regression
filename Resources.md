@@ -201,3 +201,5 @@
   related book: [Ant Colony Optimization, Marco Dorigo, Thomas Stutzle, 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/Ant_Colony_Optimization-book-Marco-Dorigo.pdf)
 
   related paper: [Ant System: Optimization by a colony of cooperating agents, M. Dorigo, V. Maniezzo, and A. Colorni, 1996](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/ant_colony_optimization/The_Ant_System-Optimization_by_a_colony_of_cooperating_agents_dorigo96a.pdf)
+
+  related paper: [Ant Colony System: A Cooperative Learning Approach to the Traveling Salesman Problem, M. Dorigo, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/ant_colony_optimization/Ant_Colony_System-A_Cooperative_Learning_Approach_to_the_Traveling_Salesman_Problem_Dorigo_ec97.pdf)
