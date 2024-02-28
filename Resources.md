@@ -13,6 +13,8 @@
 
 * [Convex Analysis and Nonlinear Optimization, J.M. Borwein, A.S. Lewis, 2nd ed, 1999](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ConvexAnalysisAndNonLinearOptimizationBorwein.pdf)
 
+* [Convex Optimization, Stephen Boyd, Lieven Vandenberghe, Stanford U., 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ConvexOptimization_Boyd_2004.pdf)
+
 * [Combinatorial Optimization, Bernhard Korte, Jens Vygen, 5th edition, 2012](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/CombinatorialOptimizationKorteFifthEditionBook.pdf)
 
 * [The Elements of Statistical Learning; Data Mining, Inference, Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman, Second Edition, 2017](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/EelementsOfStatisticalLearning_print12.pdf)
