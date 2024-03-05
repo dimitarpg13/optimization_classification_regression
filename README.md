@@ -33,6 +33,8 @@ This is Work In Progress
 
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
 
+ * [Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/Resources.md)
+
  * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
 
 ## Note
