@@ -1,5 +1,5 @@
 # classical optimization, classification algorithms, regression analysis and techniques
-repo for fundamental Machine Learning methods: classic linear and non-linear convex optimization, combinatorial optimization, classification algorithms and regression techniques and methods 
+repo for fundamental optimization techniques and related machine learning methods: classic linear and non-linear convex optimization, combinatorial optimization, classification algorithms, linear and non-linear regression  
 
 This repository is a work in progress and its contents will be updated regularly.
 
@@ -30,6 +30,8 @@ This repository is a work in progress and its contents will be updated regularly
  * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
 
  * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
+
+ * [Information Theory and Statistical Mechanics](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
 
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
 
