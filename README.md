@@ -1,9 +1,9 @@
 # classical optimization, classification algorithms, regression analysis and techniques
-repo for fundamental Machine Learning methods: classic linear and non-linear convex optimization, combinatorial optimization, classification algorithms and regression techniques and methods 
+repo for fundamental optimization techniques and related machine learning methods: classic linear and non-linear convex optimization, combinatorial optimization, classification algorithms, linear and non-linear regression  
 
-This is Work In Progress
+This repository is a work in progress and its contents will be updated regularly.
 
-## Other Relevant Topics and Repositories
+## Selected Topics in Machine Learning
  
  * [Reinforcement Learning and Game Theory](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
 
@@ -31,7 +31,11 @@ This is Work In Progress
 
  * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
 
+ * [Information Theory and Statistical Mechanics](https://github.com/dimitarpg13/information_theory_and_statistical_mechanics/blob/main/Resources.md)
+
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
+
+ * [Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/Resources.md)
 
  * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
 
