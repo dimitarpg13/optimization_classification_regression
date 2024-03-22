@@ -15,7 +15,7 @@
 
 * [Convex Optimization, Stephen Boyd, Lieven Vandenberghe, Stanford U., 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ConvexOptimization_Boyd_2004.pdf)
 
-**Note**: Links to a recent set of 12 lectures on Convex Optimization given by Stephen Boyd at Stanfrod are provided [here](#boyds-convex-optimization-lectures). 
+    **Note**: Links to a recent set of 12 lectures on Convex Optimization given by Stephen Boyd at Stanfrod are provided [here](#boyds-convex-optimization-lectures). 
 
 * [Combinatorial Optimization, Bernhard Korte, Jens Vygen, 5th edition, 2012](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/CombinatorialOptimizationKorteFifthEditionBook.pdf)
 
