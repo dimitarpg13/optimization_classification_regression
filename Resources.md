@@ -15,6 +15,8 @@
 
 * [Convex Optimization, Stephen Boyd, Lieven Vandenberghe, Stanford U., 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ConvexOptimization_Boyd_2004.pdf)
 
+    **Note**: Links to a recent set of 12 lectures on Convex Optimization given by Stephen Boyd at Stanfrod are provided [here](#boyds-convex-optimization-lectures). 
+
 * [Combinatorial Optimization, Bernhard Korte, Jens Vygen, 5th edition, 2012](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/CombinatorialOptimizationKorteFifthEditionBook.pdf)
 
 * [The Elements of Statistical Learning; Data Mining, Inference, Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman, Second Edition, 2017](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/EelementsOfStatisticalLearning_print12.pdf)
@@ -66,6 +68,8 @@
 * [Bayesian optimization and multi-armed bandits, Nando de Freitas, 2013, youtube lecture](https://www.youtube.com/watch?v=vz3D36VXefI)
 
 * [Practical Bayesian Optimization, Danel J. Lizotte, UofAlberta, PhD thesis, 2008](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/PracticalBayesianOptimization_lizotte_phd_thesis_2008.pdf)
+
+* [Information-Theoretic Safe Bayesian Optimization, AG Bottero et al, TU Darmstadt, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Information-Theoretic_Safe_Bayesian_Optimization_Bottero_2024.pdf)
 
 * [Taking the Human Out of the Loop: A Review of Bayesian Optimization, B. Shahriari et al, UBC, 2016](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Taking_the_Human_Out_of_the_Loop-A_Review_of_Bayesian_Optimization_Shahriari_UBC_2016.pdf)
 
@@ -206,3 +210,20 @@
   related paper: [Ant System: Optimization by a colony of cooperating agents, M. Dorigo, V. Maniezzo, and A. Colorni, 1996](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/ant_colony_optimization/The_Ant_System-Optimization_by_a_colony_of_cooperating_agents_dorigo96a.pdf)
 
   related paper: [Ant Colony System: A Cooperative Learning Approach to the Traveling Salesman Problem, M. Dorigo, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/ant_colony_optimization/Ant_Colony_System-A_Cooperative_Learning_Approach_to_the_Traveling_Salesman_Problem_Dorigo_ec97.pdf)
+
+## videos and youtube lectures
+
+### <a id="boyds-convex-optimization-lectures"></a>Stephen Boyd's lectures on Convex Optimization
+[Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 1](https://youtu.be/kV1ru-Inzl4)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 2](https://youtu.be/2H4_7izio9Y)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 3](https://youtu.be/1menqhfNzzo)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 4](https://youtu.be/U2HRwA7XePU)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 5](https://youtu.be/AAjG1TQcL7c)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 6](https://youtu.be/d2jF3SXcFQ8)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 7](https://youtu.be/P_SuSVZnrT0)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 8](https://youtu.be/wsRznzNgTS0)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 9](https://youtu.be/whE03c84ahA)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 10](https://youtu.be/N3V2AdTImJE)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 11](https://youtu.be/trs0RI39uWI)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 12](https://youtu.be/t8sp9rv-Dqo)
