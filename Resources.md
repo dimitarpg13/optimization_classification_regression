@@ -208,3 +208,18 @@
   related paper: [Ant System: Optimization by a colony of cooperating agents, M. Dorigo, V. Maniezzo, and A. Colorni, 1996](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/ant_colony_optimization/The_Ant_System-Optimization_by_a_colony_of_cooperating_agents_dorigo96a.pdf)
 
   related paper: [Ant Colony System: A Cooperative Learning Approach to the Traveling Salesman Problem, M. Dorigo, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/ant_colony_optimization/Ant_Colony_System-A_Cooperative_Learning_Approach_to_the_Traveling_Salesman_Problem_Dorigo_ec97.pdf)
+
+## videos and youtube lectures
+[Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 1](https://youtu.be/kV1ru-Inzl4)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 2](https://youtu.be/2H4_7izio9Y)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 3](https://youtu.be/1menqhfNzzo)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 4](https://youtu.be/U2HRwA7XePU)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 5](https://youtu.be/AAjG1TQcL7c)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 6](https://youtu.be/d2jF3SXcFQ8)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 7](https://youtu.be/P_SuSVZnrT0)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 8](https://youtu.be/wsRznzNgTS0)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 9](https://youtu.be/whE03c84ahA)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 10](https://youtu.be/N3V2AdTImJE)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 11](https://youtu.be/trs0RI39uWI)
+* [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 12](https://youtu.be/t8sp9rv-Dqo)
