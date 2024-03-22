@@ -15,6 +15,8 @@
 
 * [Convex Optimization, Stephen Boyd, Lieven Vandenberghe, Stanford U., 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ConvexOptimization_Boyd_2004.pdf)
 
+**Note**: Links to a recent set of 12 lectures on Convex Optimization given by Stephen Boyd at Stanfrod are provided [here](#boyds-convex-optimization-lectures). 
+
 * [Combinatorial Optimization, Bernhard Korte, Jens Vygen, 5th edition, 2012](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/CombinatorialOptimizationKorteFifthEditionBook.pdf)
 
 * [The Elements of Statistical Learning; Data Mining, Inference, Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman, Second Edition, 2017](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/EelementsOfStatisticalLearning_print12.pdf)
@@ -210,6 +212,8 @@
   related paper: [Ant Colony System: A Cooperative Learning Approach to the Traveling Salesman Problem, M. Dorigo, 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/ant_colony_optimization/Ant_Colony_System-A_Cooperative_Learning_Approach_to_the_Traveling_Salesman_Problem_Dorigo_ec97.pdf)
 
 ## videos and youtube lectures
+
+### <a id="boyds-convex-optimization-lectures"></a>Stephen Boyd's lectures on Convex Optimization
 [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
 * [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 1](https://youtu.be/kV1ru-Inzl4)
 * [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 2](https://youtu.be/2H4_7izio9Y)
