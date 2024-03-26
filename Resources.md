@@ -29,6 +29,8 @@
 
 * [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
 
+* [The Elements of Differentiable Programming, Mathieu Blondel, Vincent Roulet, Google DeepMind, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf)
+
 ## articles, conference papers and tutorials
 
 ### Classification and Regression
