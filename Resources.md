@@ -57,6 +57,8 @@
 
 * [Generation of Efficient Solutions in Multiobjective Mathematical Programming Problems using GAMS: Effective Implementation of the epsilon-constraint method, G. Mavrotas, 2008](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Generation_of_efficient_solutions_in_Multiobjective_Mathematical_Programming_problems_using_GAMS_Epsion_constraint_method.pdf)
 
+* [Effective Implementation of the epsilon-Constraint Method in Multi-Objective Mathematical Programming Problmes, G. Mavrotas, 2009](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Mavrotas_Effective_implementation_of_the_e-constraint_method_in_Multi-Objective_Mathematical_Programming_problems.pdf)
+
 * [AUGMECON2: A Novel Version of the Epsilon-Constraint Method for Finding the Exact Pareto Set in Multi-Objective Integer Programming Problems, G. Mavrotas and Kostas Florios](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/AUGMECON2-A_novel_version_of_the_epsilon-constraint_method_for_finding_the_exact_Pareto_set_in_Multi-Objective_Integer_Programming_problems_Mavrotas_2013.pdf)
 
 * [Exact Algorithms for Multiobjective Linear Optimization Problems with Linear Variables: A State of The Art Survey, P. Halffmann, 2022](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Exact_algorithms_for_multiobjective_linear_optimization_problems_with_integer_variables-A_state_of_the_art_survey_Halfmann_2022.pdf)
