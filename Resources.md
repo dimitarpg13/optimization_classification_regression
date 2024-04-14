@@ -166,6 +166,10 @@
 
 * [On The Space Complexity of Linear Programming With Preprocessing, Yael Kalai et al, Microsoft, 2016](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/linear_programming/On_the_Space_Complexity_of_Linear_Programming_with_Preprocessing_KalaiRaRe2016.pdf)
 
+### Matrix Algorithms
+
+* [Matrix Computations, Gene H. Golub, Charles F. Van Loan, 4th edition, original date of publishing 1983](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/Golub_Matrix_Computations.pdf)
+
 ## medium
 
 * [A Marriage of Machine Learning and Optimization Algorithms with Wouter van Heeswijk](https://towardsdatascience.com/a-marriage-of-machine-learning-and-optimization-algorithms-e6c680454f06)
