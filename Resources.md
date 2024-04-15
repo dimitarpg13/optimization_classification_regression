@@ -170,6 +170,18 @@
 
 * [Matrix Computations, Gene H. Golub, Charles F. Van Loan, 4th edition, original date of publishing 1983](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/Golub_Matrix_Computations.pdf)
 
+* [A Generalized Inverse for Matrices, R. Penrose, 1954](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/a-generalized-inverse-for-matrices.pdf)
+
+* [Calculating the Singular Values and Pseudo-Inverse of a Matrix, G. Golub, W. Kahan, 1965](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/SingularValueDecompistionGolubKahan.pdf)
+
+* [An Elimination Method for Computing The Generalized Inverse of an Arbitrary Complex Matrix, A. Ben Israel, S.J. Wersan, 1964](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/AnEliminationMethodforMPInverse_BenIsrael_Wersan_1963.pdf)
+
+* [Representations of The Generalized Inverse of a Partitioned Matrix, Randall E. Cline, 1964](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/RepresentationsForGeneralizedInverseOfPartitionedMatrixCline1964.pdf)
+
+* [Contributions to the Theory of Generalized Inverses, A. Ben-Israel, A. Charnes, 1964](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/ContributionsToTheTheoryOfGeneralizedInversesBenIsrael.pdf)
+
+* [Some Applications of The Pseudo-Inverse of a Matrix, T.N.E. Greville, 1960](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/SomeApplicationsOfThePseudoInverseOfAMatrixGreville.pdf)
+
 ## medium
 
 * [A Marriage of Machine Learning and Optimization Algorithms with Wouter van Heeswijk](https://towardsdatascience.com/a-marriage-of-machine-learning-and-optimization-algorithms-e6c680454f06)
