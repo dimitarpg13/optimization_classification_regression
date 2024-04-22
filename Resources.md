@@ -73,6 +73,8 @@
 
 * [Bayesian optimization and multi-armed bandits, Nando de Freitas, 2013, youtube lecture](https://www.youtube.com/watch?v=vz3D36VXefI)
 
+* [Pareto Front-Diverse Batch Multi-Objective Bayesian Optimization, A. Ahmadianshalchi et al, AAAI 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Pareto_Front-Diverse_Batch_Multi-Objective_Bayesian_Optimization_Ahmadianshalchi_2024.pdf)
+
 * [Practical Bayesian Optimization, Danel J. Lizotte, UofAlberta, PhD thesis, 2008](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/PracticalBayesianOptimization_lizotte_phd_thesis_2008.pdf)
 
 * [Information-Theoretic Safe Bayesian Optimization, AG Bottero et al, TU Darmstadt, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_Bayseian_optimization/Information-Theoretic_Safe_Bayesian_Optimization_Bottero_2024.pdf)
