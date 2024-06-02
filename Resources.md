@@ -190,6 +190,10 @@
 
 ## medium
 
+* [Constructive Heuristics in Discrete Optimization, Bruno Scalia C. F. Leite, 2024](https://towardsdatascience.com/constructive-heuristics-in-discrete-optimization-f6a41bf26d01)
+
+  related repository with demo code: https://github.com/bruscalia/optimization-demo-files
+
 * [A Marriage of Machine Learning and Optimization Algorithms with Wouter van Heeswijk](https://towardsdatascience.com/a-marriage-of-machine-learning-and-optimization-algorithms-e6c680454f06)
 
 * [Avoid This Pitfall When Using LASSO and Ridge Regression with Wouter van Heeswijk](https://towardsdatascience.com/avoid-this-pitfall-when-using-lasso-and-ridge-regression-f4f4948bfe70)
