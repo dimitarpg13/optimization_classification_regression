@@ -1,4 +1,4 @@
-# Resources on General Machine Learning algorithms and techniques: classical optimization, classification algorithms and regression analysis
+# Resources on classical optimization, classification algorithms and regression analysis
 
 ## books
 * [Linear and Nonlinear Programming, David G. Luenberger, 4th ed, 2008](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/LinearAndNonLinearProgrammingLuenbergerStanford.pdf)
