@@ -75,7 +75,11 @@
 
 * [Benson-style algorithms for Linear Vector Optimization and Applications, A.H. Hamel et al, 2013](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Benson_type_algorithms_for_linear_vector_optimization_and_applications_Hamel_2013.pdf)
 
-### Multi-Objective Bayesian Optimization
+### Bayesian Optimization and Multi-Objective Bayesian Optimization
+
+* [Bayesian Optimization, Roman Garnett, Cambridge University Press, 2023](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/BayesianOptimization/Bayesian_Optimization_Roman_Garnett_2023.pdf)
+
+* [Bayesian Optimization and Data Science, Francesco Archetti, Antonio Candelieri, Springer, 2019](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/BayesianOptimization/Bayesian_Optimization_and_Data_Science_Archetti_1stEd_2019.pdf)
 
 * [Bayesian optimization and multi-armed bandits, Nando de Freitas, 2013, youtube lecture](https://www.youtube.com/watch?v=vz3D36VXefI)
 
