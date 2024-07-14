@@ -1,4 +1,4 @@
-# Resources on General Machine Learning algorithms and techniques: classical optimization, classification algorithms and regression analysis
+# Resources on classical optimization, classification algorithms and regression analysis
 
 ## books
 * [Linear and Nonlinear Programming, David G. Luenberger, 4th ed, 2008](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/LinearAndNonLinearProgrammingLuenbergerStanford.pdf)
@@ -19,10 +19,6 @@
 
 * [Combinatorial Optimization, Bernhard Korte, Jens Vygen, 5th edition, 2012](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/CombinatorialOptimizationKorteFifthEditionBook.pdf)
 
-* [The Elements of Statistical Learning; Data Mining, Inference, Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman, Second Edition, 2017](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/EelementsOfStatisticalLearning_print12.pdf)
-
-* [An Introduction to Statistical Learning with Applications in R, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Second Edition, 2021](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ISLRv2_website.pdf)
-
 * [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, Bernhard Schoelkopf, Alexander J. Smola, MIT, 2002](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/scholkopf2002learning_with_kernels.pdf)
 
 * [Optimization: Principles and Algorithms, Michel Bierlaire, EPFL, 2018](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/OptimizationPrinciplesAlgorithms_Bierlaire_EPFL_2018.pdf)
@@ -32,6 +28,16 @@
 * [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
 
 * [The Elements of Differentiable Programming, Mathieu Blondel, Vincent Roulet, Google DeepMind, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf)
+
+### books on Statistical Learnign and Regression Analysis
+
+* [The Elements of Statistical Learning; Data Mining, Inference, Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman, Second Edition, 2017](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/EelementsOfStatisticalLearning_print12.pdf)
+
+* [An Introduction to Statistical Learning with Applications in R, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Second Edition, 2021](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ISLRv2_website.pdf)
+
+* [Statistical Inference, George Casella, Roger L. Berger, 2002, 2nd edition](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/Statistical_Inference_Casella-Berger_2002.pdf)
+
+* [Principles of Statistical Inference, D.R. Cox, Cambridge U., 2006](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/principlesofstatisticalinference_cox_2006.pdf)
 
 ## articles, conference papers and tutorials
 
@@ -185,6 +191,10 @@
 * [Some Applications of The Pseudo-Inverse of a Matrix, T.N.E. Greville, 1960](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/SomeApplicationsOfThePseudoInverseOfAMatrixGreville.pdf)
 
 ## medium
+
+* [Constructive Heuristics in Discrete Optimization, Bruno Scalia C. F. Leite, 2024](https://towardsdatascience.com/constructive-heuristics-in-discrete-optimization-f6a41bf26d01)
+
+  related repository with demo code: https://github.com/bruscalia/optimization-demo-files
 
 * [A Marriage of Machine Learning and Optimization Algorithms with Wouter van Heeswijk](https://towardsdatascience.com/a-marriage-of-machine-learning-and-optimization-algorithms-e6c680454f06)
 
