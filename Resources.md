@@ -261,3 +261,7 @@
 * [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 10](https://youtu.be/N3V2AdTImJE)
 * [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 11](https://youtu.be/trs0RI39uWI)
 * [Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 12](https://youtu.be/t8sp9rv-Dqo)
+
+## conferences
+
+[Machine Learning, Optimization, and Data Science, 5th International Conference, LOD 2019 Siena, Italy, September 10–13, 2019 Proceedings](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/Machine_Learning_Optimization_and_Data_Science_5_conference_LOD_2019.pdf)
