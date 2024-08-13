@@ -30,4 +30,4 @@ literature/articles/matrix_algorithms/ContributionsToTheTheoryOfGeneralizedInver
 literature/articles/matrix_algorithms/SingularValueDecompistionGolubKahan.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/multi-objective_Bayseian_optimization/PracticalBayesianOptimization_lizotte_phd_thesis_2008.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/multi-objective_Bayseian_optimization/Pareto_Front-Diverse_Batch_Multi-Objective_Bayesian_Optimization_Ahmadianshalchi_2024.pdf filter=lfs diff=lfs merge=lfs -text
-
+literature/books/Regression-Models-Methods-and-Applications_Fahrmeir_2013.pdf filter=lfs diff=lfs merge=lfs -text
