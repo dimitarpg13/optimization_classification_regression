@@ -16,3 +16,18 @@ literature/books/principlesofstatisticalinference_cox_2006.pdf filter=lfs diff=l
 literature/books/Machine_Learning_Optimization_and_Data_Science_5_conference_LOD_2019.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/BayesianOptimization/Bayesian_Optimization_Roman_Garnett_2023.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/BayesianOptimization/Bayesian_Optimization_and_Data_Science_Archetti_1stEd_2019.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/EelementsOfStatisticalLearning_print12.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/ISLRv2_website.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/IntegerProgramming-Wolsey.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Kaisa-Miettinen-Nonlinear-Multiobjective-Optimization_1999.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Lecoutre-Constraint-Networks-2009.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/OptimizationPrinciplesAlgorithms_Bierlaire_EPFL_2018.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/choice_modeling/NonparametricChoiceModelingApplicationsToOperationsManagementPhDThesisJagabathula.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/boosting/AnIntroductiontotheBootstrapEfronTibshirani.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/matrix_algorithms/Golub_Matrix_Computations.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/matrix_algorithms/ApproximatePsuedoInverseSolutionOfIllConditionedLinearSystemKlinger.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/matrix_algorithms/ContributionsToTheTheoryOfGeneralizedInversesBenIsrael.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/matrix_algorithms/SingularValueDecompistionGolubKahan.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/multi-objective_Bayseian_optimization/PracticalBayesianOptimization_lizotte_phd_thesis_2008.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/multi-objective_Bayseian_optimization/Pareto_Front-Diverse_Batch_Multi-Objective_Bayesian_Optimization_Ahmadianshalchi_2024.pdf filter=lfs diff=lfs merge=lfs -text
+
