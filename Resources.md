@@ -42,6 +42,7 @@
 ## articles, conference papers and tutorials
 
 ### Classification and Regression
+* [Regression: Models, Methods, and Applications, Ludwig Fahrmeir et al, Springer, 2013](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/Regression-Models-Methods-and-Applications_Fahrmeir_2013.pdf) 
 
 * [Data Mining with Decision Trees: Theory and Applications, L. Rokach and O. Maimon, 2nd Ed, 2014](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/DataMiningwithDecisionTrees_Theory_and_Applications_2nd_ed_Rokach_Maimon_2014.pdf)
 
