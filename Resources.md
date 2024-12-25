@@ -54,6 +54,8 @@
 
 * [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guide Imbens, 2015](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
 
+* [Lecture Notes on High Dimensional Linear Regression, Alberto Quaini, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/Lecture_Notes_on_High_Dimensional_Linear_Regression_Quaini_2024.pdf)
+
 ### Multi-Objective Optimization
 
 * [Zorn's Lemma and Some of its Applications, Keith Conrad, online document](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Zorns_Lemma_and_Some_Applications_Conrad.pdf)
