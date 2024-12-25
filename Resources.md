@@ -78,6 +78,14 @@
 
 * [Benson-style algorithms for Linear Vector Optimization and Applications, A.H. Hamel et al, 2013](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Benson_type_algorithms_for_linear_vector_optimization_and_applications_Hamel_2013.pdf)
 
+### Stochastic Optimization
+
+* [Duality in convex stochastic optimization, Teemu Pennanen, Ari-Pekka Perkkio, 2022](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/stochastic_optimization/Duality_in_convex_stochastic_optimization_Pennanen_2022.pdf)
+
+* [Dual solutions in convex stochastic optimization, Teemu Pennanen, Ari-Pekka Perkkio, 2022](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/stochastic_optimization/Dual_solutions_in_convex_stochastic_optimization_Pennanen_2022.pdf)
+
+* [Dynamic programming in convex stochastic optimization, Teemu Pennanen, Ari-Pekka Perkkio, 2022](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/stochastic_optimization/Dynamic_programming_in_convex_stochastic_optimization_Pennanen_2022.pdf)
+
 ### Bayesian Optimization and Multi-Objective Bayesian Optimization
 
 * [Bayesian Optimization, Roman Garnett, Cambridge University Press, 2023](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/BayesianOptimization/Bayesian_Optimization_Roman_Garnett_2023.pdf)
