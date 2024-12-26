@@ -29,6 +29,10 @@
 
 * [The Elements of Differentiable Programming, Mathieu Blondel, Vincent Roulet, Google DeepMind, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf)
 
+### Stochastic Optimization
+
+* [First-order and Stochastic Optimization methods for Machine Learning, Guanghui Lan, 2020](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/StochasticOptimization/first-order-and-stochastic-optimization-methods-for-machine-learning-Lan-2020.pdf)
+
 ### books on Statistical Learnign and Regression Analysis
 
 * [The Elements of Statistical Learning; Data Mining, Inference, Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman, Second Edition, 2017](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/EelementsOfStatisticalLearning_print12.pdf)
