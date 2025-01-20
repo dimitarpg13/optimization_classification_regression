@@ -36,3 +36,5 @@ literature/articles/dynamic_programming/DynamicProgrammingAndOptimalControlBerts
 literature/articles/dynamic_programming/dynamic-optimization-the-calculus-of-variations-kamien.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/classification_and_regression/Lecture_Notes_on_High_Dimensional_Linear_Regression_Quaini_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/StochasticOptimization/first-order-and-stochastic-optimization-methods-for-machine-learning-Lan-2020.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/A_First_Course_in_Monte_Carlo_Methods_Sainz-Allonso_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Mathematical_Modeling_Basics_Huerlman_2024.pdf filter=lfs diff=lfs merge=lfs -text
