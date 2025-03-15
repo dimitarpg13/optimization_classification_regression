@@ -40,3 +40,4 @@ literature/books/A_First_Course_in_Monte_Carlo_Methods_Sainz-Allonso_2024.pdf fi
 literature/books/Mathematical_Modeling_Basics_Huerlman_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Introduction_to_Machine_Learning_Younes_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/ApproximationAlgorithms/CS583_Approximation_Algorithms_Chekuri_2021.pdf filter=lfs diff=lfs merge=lfs -text
