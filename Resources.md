@@ -211,6 +211,10 @@
 
 * [Some Applications of The Pseudo-Inverse of a Matrix, T.N.E. Greville, 1960](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/SomeApplicationsOfThePseudoInverseOfAMatrixGreville.pdf)
 
+### Approximation Theory and Related Algorithms
+
+* [Lecture Notes for CS 583: Approximation Algorithms, Chandra Chekuri, Nov 18th, 2021, UIUC](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ApproximationAlgorithms/CS583_Approximation_Algorithms_Chekuri_2021.pdf)
+
 ## medium
 
 * [Constructive Heuristics in Discrete Optimization, Bruno Scalia C. F. Leite, 2024](https://towardsdatascience.com/constructive-heuristics-in-discrete-optimization-f6a41bf26d01)
