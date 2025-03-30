@@ -42,3 +42,4 @@ literature/books/Introduction_to_Machine_Learning_Younes_2024.pdf filter=lfs dif
 literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/ApproximationAlgorithms/CS583_Approximation_Algorithms_Chekuri_2021.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/CrossEntropyMethod/The_Cross-Entropy_Method-A_Unified_Approach_to_Combinatorial_Optimization_Monte-Carlo_Simulation_and_Machine_Learning_Rubinstein_2003.pdf filter=lfs diff=lfs merge=lfs -text
+literature/lecture_notes/gradient_descent/grad-descent_Ryan_Tibshirani_slides.pdf filter=lfs diff=lfs merge=lfs -text
