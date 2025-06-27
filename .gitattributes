@@ -46,3 +46,4 @@ literature/books/CrossEntropyMethod/The_Cross-Entropy_Method-A_Unified_Approach_
 literature/lecture_notes/gradient_descent/grad-descent_Ryan_Tibshirani_slides.pdf filter=lfs diff=lfs merge=lfs -text
 literature/lecture_notes/gradient_descent/proximal-gradient-descent_Ryan_Tibshirani_slides.pdf filter=lfs diff=lfs merge=lfs -text
 literature/lecture_notes/convexity/Theory_of_convex_functions_ORF523_S16_Lec7_Ahmadi_2015.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/matrix_algorithms/Woodbury_matrix_identity/On_Deriving_The_Inverse_of_Sum_of_matrices_Henderson_1980.pdf filter=lfs diff=lfs merge=lfs -text
