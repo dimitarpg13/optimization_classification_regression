@@ -29,6 +29,8 @@
 
 * [The Elements of Differentiable Programming, Mathieu Blondel, Vincent Roulet, Google DeepMind, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/The_Elements_of_Differentiable_Programming_Blondel_Roullet_2024.pdf)
 
+* [The Cauchy–Schwartz Master Class An Introduction to the Art of Mathematical Inequalities, J. Michael Steele, University of Pennsylvania, 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf)
+
 ### Stochastic Optimization
 
 * [First-order and Stochastic Optimization methods for Machine Learning, Guanghui Lan, 2020](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/StochasticOptimization/first-order-and-stochastic-optimization-methods-for-machine-learning-Lan-2020.pdf)
@@ -208,6 +210,10 @@
 * [Contributions to the Theory of Generalized Inverses, A. Ben-Israel, A. Charnes, 1964](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/ContributionsToTheTheoryOfGeneralizedInversesBenIsrael.pdf)
 
 * [Some Applications of The Pseudo-Inverse of a Matrix, T.N.E. Greville, 1960](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/matrix_algorithms/SomeApplicationsOfThePseudoInverseOfAMatrixGreville.pdf)
+
+### Approximation Theory and Related Algorithms
+
+* [Lecture Notes for CS 583: Approximation Algorithms, Chandra Chekuri, Nov 18th, 2021, UIUC](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ApproximationAlgorithms/CS583_Approximation_Algorithms_Chekuri_2021.pdf)
 
 ## medium
 
