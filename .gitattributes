@@ -51,3 +51,4 @@ literature/books/DifferentiableProgramming/The_Elements_of_Differentiable_Progra
 literature/books/ChallengingMathematicalProblemsWithElementarySolutions/Challenging_Mathematical_Problems_with_Elementary_Solutions_Vol_I_Yaglom_1964.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/ChallengingMathematicalProblemsWithElementarySolutions/Challenging_Mathematical_Problems_with_Elementary_Solutions_Vol_II_Yaglom_1967.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/GeneticAlgorithms/An_Introduction_to_Genetic_Algorithms-Melanie_Mitchell_2016.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/GeneticAlgorithms/Evolutionary-Deep-Learning-by-Michael-Lanham.pdf filter=lfs diff=lfs merge=lfs -text
