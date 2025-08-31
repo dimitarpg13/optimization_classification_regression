@@ -64,6 +64,10 @@
 
 * [Lecture Notes on High Dimensional Linear Regression, Alberto Quaini, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/Lecture_Notes_on_High_Dimensional_Linear_Regression_Quaini_2024.pdf)
 
+### Constrained Optimization
+
+* [The Geometry of Constrained Optimization: Constrained Gradient Flows via Reparameterization: A-Stable Implicit Schemes, KKT from Stationarity, and Geometry-Respecting Algorithms, Valentin Leplat, 2025](literature/articles/constrained_optimization/The_Geometry_of_Constrained_Optimization-Constrained_Gradient_Flows_via_Reparameterization_Leplat_2025.pdf)
+
 ### Multi-Objective Optimization
 
 * [Zorn's Lemma and Some of its Applications, Keith Conrad, online document](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/multi-objective_optimization/Zorns_Lemma_and_Some_Applications_Conrad.pdf)
