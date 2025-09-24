@@ -47,6 +47,10 @@
 
 * [Principles of Statistical Inference, D.R. Cox, Cambridge U., 2006](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/principlesofstatisticalinference_cox_2006.pdf)
 
+## lecture notes
+
+[Optimization for Machine Learning, Lecture Notes CS-439, Spring 2025, Bernd Gartner, ETH, Martin Jaggi, EPFL](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/lecture_notes/optimization_for_machine_learning/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf)
+
 ## articles, conference papers and tutorials
 
 ### Classification and Regression
