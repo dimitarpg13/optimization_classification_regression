@@ -56,3 +56,4 @@ literature/books/GeneticAlgorithms/Genetic_Algorithms_and_Genetic_Programming_Af
 literature/books/GeneticAlgorithms/an-introduction-to-genetic-algorithms-for-scientists-and-engineers.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/GeneticAlgorithms/genetic-algorithms-with-python.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/constrained_optimization/The_Geometry_of_Constrained_Optimization-Constrained_Gradient_Flows_via_Reparameterization_Leplat_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/lecture_notes/optimization_for_machine_learning/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf filter=lfs diff=lfs merge=lfs -text
