@@ -160,6 +160,10 @@
 
 * [A New Extension of the Kalman Filter to Nonlinear Systems, Simon Julier, Jeffrey Uhlmann, Oxford U., 1997](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/kalman_filtering/A_New_Extension_of_the_Kalman_Filter_to_Nonlinear_Systems_Julier1997_SPIE_KF.pdf)
 
+### Principal Component Analysis
+
+* [A Geometric Analysis of PCA, Ayoub El Hanchi et al, U of Toronto, 2025](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/PCA/A_Geometric_Analysis_of_PCA_El_Hanchi_2025.pdf)
+
 ### Indepedent Component Analysis
 
 * [Introduction to ICA: Independent Component Analysis with Jonas Dieckmann](https://towardsdatascience.com/introduction-to-ica-independent-component-analysis-b2c3c4720cd9)
