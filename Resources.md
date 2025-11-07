@@ -33,6 +33,8 @@
 
 * [The Cauchy–Schwartz Master Class An Introduction to the Art of Mathematical Inequalities, J. Michael Steele, University of Pennsylvania, 2004](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/An_Introduction_To_The_Art_of_Mathematical_Inequalities_Steele_2004.pdf)
 
+* [Model Building in Mathematical Programming, H. Paul Williams, 2013](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ModelBuildinginMathematicalProgramming5th2013.pdf)
+
 ### Stochastic Optimization
 
 * [First-order and Stochastic Optimization methods for Machine Learning, Guanghui Lan, 2020](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/StochasticOptimization/first-order-and-stochastic-optimization-methods-for-machine-learning-Lan-2020.pdf)
