@@ -55,7 +55,7 @@
 
 * [Lecture Notes on Linear Regression, Danillo Petti, U. of Essex, 2023-2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/lecture_notes/regression/Lecture_notes_in_Linear_Regression_Danilo_Petti_2023.pdf)
 
-* Lecture Notes on High Dimensional Linear Regression, Alberto Quaini, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/Lecture_Notes_on_High_Dimensional_Linear_Regression_Quaini_2024.pdf)
+* [Lecture Notes on High Dimensional Linear Regression, Alberto Quaini, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/Lecture_Notes_on_High_Dimensional_Linear_Regression_Quaini_2024.pdf)
 
 
 ## articles, conference papers and tutorials
