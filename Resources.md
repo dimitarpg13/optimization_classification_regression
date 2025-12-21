@@ -39,7 +39,7 @@
 
 * [First-order and Stochastic Optimization methods for Machine Learning, Guanghui Lan, 2020](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/StochasticOptimization/first-order-and-stochastic-optimization-methods-for-machine-learning-Lan-2020.pdf)
 
-### books on Statistical Learnign and Regression Analysis
+### books on Statistical Learning and Regression Analysis
 
 * [The Elements of Statistical Learning; Data Mining, Inference, Prediction, Trevor Hastie, Robert Tibshirani, Jerome Friedman, Second Edition, 2017](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/EelementsOfStatisticalLearning_print12.pdf)
 
@@ -51,11 +51,17 @@
 
 ## lecture notes
 
-[Optimization for Machine Learning, Lecture Notes CS-439, Spring 2025, Bernd Gartner, ETH, Martin Jaggi, EPFL](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/lecture_notes/optimization_for_machine_learning/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf)
+* [Optimization for Machine Learning, Lecture Notes CS-439, Spring 2025, Bernd Gartner, ETH, Martin Jaggi, EPFL](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/lecture_notes/optimization_for_machine_learning/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf)
+
+* [Lecture Notes on Linear Regression, Danillo Petti, U. of Essex, 2023-2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/lecture_notes/regression/Lecture_notes_in_Linear_Regression_Danilo_Petti_2023.pdf)
+
+* Lecture Notes on High Dimensional Linear Regression, Alberto Quaini, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/Lecture_Notes_on_High_Dimensional_Linear_Regression_Quaini_2024.pdf)
+
 
 ## articles, conference papers and tutorials
 
 ### Classification and Regression
+
 * [Regression: Models, Methods, and Applications, Ludwig Fahrmeir et al, Springer, 2013](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/Regression-Models-Methods-and-Applications_Fahrmeir_2013.pdf) 
 
 * [Data Mining with Decision Trees: Theory and Applications, L. Rokach and O. Maimon, 2nd Ed, 2014](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/DataMiningwithDecisionTrees_Theory_and_Applications_2nd_ed_Rokach_Maimon_2014.pdf)
@@ -69,6 +75,8 @@
 * [Machine Learning Methods for Estimating Heterogenous Causal Effects, Susan Athey, Guide Imbens, 2015](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/MachineLearningMethodsforEstimatingHeterogeneousCausalEffects_Athey_2015.pdf)
 
 * [Lecture Notes on High Dimensional Linear Regression, Alberto Quaini, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/Lecture_Notes_on_High_Dimensional_Linear_Regression_Quaini_2024.pdf)
+
+[Lecture Notes on Linear Regression, Danillo Petti, U. of Essex, 2023-2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/lecture_notes/regression/Lecture_notes_in_Linear_Regression_Danilo_Petti_2023.pdf)
 
 ### Constrained Optimization
 
