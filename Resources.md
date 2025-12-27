@@ -53,6 +53,8 @@
 
 * [Optimization for Machine Learning, Lecture Notes CS-439, Spring 2025, Bernd Gartner, ETH, Martin Jaggi, EPFL](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/lecture_notes/optimization_for_machine_learning/Optimization_for_Machine_Learning_Gaertner_Lecture_Notes_CS-439_Spring_2025.pdf)
 
+* [Fundamentals of Optimization Theory With Applications to Machine Learning, Jean Gallier and Jocelyn Quaintance, UPenn, 2025](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/lecture_notes/optimization_for_machine_learning/Fundamentals_of_Optimizatio_Theory_With_Applications_to_Machine_Learning_Gallier_2025.pdf)
+
 * [Lecture Notes on Linear Regression, Danillo Petti, U. of Essex, 2023-2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/lecture_notes/regression/Lecture_notes_in_Linear_Regression_Danilo_Petti_2023.pdf)
 
 * [Lecture Notes on High Dimensional Linear Regression, Alberto Quaini, 2024](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/classification_and_regression/Lecture_Notes_on_High_Dimensional_Linear_Regression_Quaini_2024.pdf)
