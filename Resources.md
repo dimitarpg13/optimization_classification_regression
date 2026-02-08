@@ -243,7 +243,7 @@
 
 * [Lecture Notes for CS 583: Approximation Algorithms, Chandra Chekuri, Nov 18th, 2021, UIUC](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/books/ApproximationAlgorithms/CS583_Approximation_Algorithms_Chekuri_2021.pdf)
 
-## Approximation of Functions
+#### Approximation of Functions
 
 * [Approximation of Functions: Optimal Sampling and Complexity, David Krieg, Mario Ullrich, 2026](https://github.com/dimitarpg13/optimization_classification_regression/blob/main/literature/articles/function_approximation/Approximation_of_Functions-Optimal_Sampling_and_Complexity_Krieg_Ulrich_2026.pdf)
 
